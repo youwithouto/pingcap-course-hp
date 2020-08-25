@@ -1,7 +1,5 @@
 # Homework | Week 02
 
-## 00 | TLDR;
-
 ## 01 | 目的
 
 - 分析 TiDB 的可能性能瓶颈
